@@ -1,0 +1,33 @@
+1. Titulo
+Talvez a último item a ser definido. Deve estar perfeitamente alinhado com o objetivo e a área, em geral destaca a principal contribuição da pesquisa.
+
+2. Área
+Como estamos pensando em um projeto de engenharia de software, um bom exercício é saber em que disciplina de Engenharia de Software este trabalho está inserido. Pode-se tomar o modelo do SWEBOK e identificar em que área a pesquisa se enquadra. O SWEBOK ajuda a definir o estado da arte desta área.
+
+Pessoalmente, procuro me concentrar nas áreas de Testes em sistemas de software: métodos, ferramentas, critérios e técnicas de teste e desenvolvimento como o Test-Driven Development, Integração contínua, e similares; e Processos de Desenvolvimento de Software como o RUP, OpenUP, Scrum, Xp, e similares. As vezes ajuda saber as áreas que o orientados atua para encaminhar corretamente sua proposta.
+
+3. Objetivo
+Deve dar uma contribuição à área de pesquisa, responder uma questão de pesquisa, por exemplo:
+
+• Novos Métodos ou técnicas de teste de software
+• Novos Métodos para análise ou avaliação e comparação de ferramentas e métodos
+• Design, avaliação ou análise de um problema em particular, na forma de um estudo de caso (verificar se é um estudo de caso real)
+• Generalização ou caracterização de técnicas, procedimentos, métodos.
+
+4. Metodologia
+Como pretende atingir o objetivo. Etapas e atividades a serem desenvolvidas para atingir o objetivo. Por exemplo, segue 3 grandes tipos de pesquisa: Estudos de Caso, Pesquisas Experimentais (empíricas) e Pesquisa-Ação. (procure detalhes destas metodologias na internet. Dependendo do objetivo da pesquisa uma metodologia atende melhor que outra. Vou exemplificar os estudos com uma pesquisa na área de Teste de Software.
+
+Ex.1 Estudo de Caso: Ideal para avaliar uma técnica ou processo específico. Pode-se realizar um estudo (de caso) em empresas que usam este método por exemplo.
+Ex.2 Pesquisa Empíricas. Para se avaliar se uma proposta de uma melhoria em método de teste pode-se realizar um experimento (estudo empírico) que compare a técnica melhorada com técnica original.
+Ex.3. Pesquisa-Ação. Para se resolver um problema real (que pode envolver a implantação de uma estratégia de teste) pode-se realizar uma análise aprofundada no problema (pesquisa) propor uma solução e avaliar sua eficácia (ação).
+5. Prazos
+Prazos disponíveis e estimados. Reserve no mínimo 3 meses para revisão de textos e leitura do material pelas bancas de qualificação e defesa. E no mínimo 6 meses entre a qualificação e defesa de mestrado. Um trabalho completo de um tema bem definido e maduro não é feito em menos de 1 ano.
+
+6. Referências Comentadas
+De 4 a 7 bons artigos (não vale white paper) – A existência de boas referências recentes sobre o tema é um indicativo forte de um bom tema. Por outro lado, a inexistência é um indicativo de que a pesquisa não vai ter o embasamento científico necessário para progredir.
+
+Dê uma lida em outras dicas:
+
+A empresa como tema de pesquisa: um bom caminho?
+Novos Temas de Pesquisa: O caminho das pedras
+Procura por Temas de Pesquisa: Métodos Ágeis

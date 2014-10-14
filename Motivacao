@@ -8,3 +8,61 @@ contexto do problema
 
 referencias apenas que confirmam o problema
 
+
+1.1	Motivação
+
+Há pesquisas constatando que o isolamento gera tristeza. O ser humano é um ser social. Estimular a felicidade baseada na confiança e trabalho em equipe além de melhorar a retenção, motivação, qualidade e produtividade, é um ato Cristão, demonstra respeito ao profissional desenvolvedor de software.
+
+A programação em pares é a principal prática do método XP (Extreme Programming). Ela melhora a qualidade e reduz o número de defeitos do sistema. Aumenta a retenção, a motivação e a confiança entre os membros da equipe. Porém seu ônus é a perda de produtividade e este problema é o principal objeto de estudo desta dissertação e não há publicação usando a engenharia simultânea para resolvê-lo. 
+
+A pesquisa conduzida por Smith et al. (2002) na universidade americana West Virginia e NASA, reconheceu o papel fundamental de uma das práticas: a programação em pares. Ela relaciona-se diretamente a quase todas as outras práticas do método XP. A centralidade da programação em pares para o método XP é evidenciada devido ao fato de que caso removida afetaria diretamente todas as práticas relacionadas. Constatou-se o problema de produtividade da programação em pares e foi concluído que a NASA não deveria usar método ágil baseado em programação em pares em 64% dos seus projetos. Para os demais casos, o método usado na pesquisa apenas endossou vantagem sobre abordagens convencionais em um relativamente pequeno e específico conjunto de casos, descritos a seguir:
+
+•	O projeto é relativamente pequeno;
+•	Existe uma abundância de desenvolvedores;
+•	É necessário um período de desenvolvimento curto. 
+
+Segundo Dyba et al. (2007) não é sempre que ocorre a melhoria da qualidade ao usar a programação em pares, conforme é descrito no Quadro 1. Quanto mais experiente é o programador e menos complexa for a tarefa, menor será a melhoria da qualidade.
+
+Quadro 1 – Diretriz para quando usar a programação em pares
+Experiência do programador	Complexidade da tarefa	É vantajoso usar a programação em pares?
+Júnior	Simples	Sim, se o aumento da qualidade é o principal objetivo.
+Júnior	Complexa	Sim, se o aumento da qualidade é o principal objetivo.
+Pleno	Simples	Não.
+Pleno	Complexa	Sim, se o aumento da qualidade é o principal objetivo.
+Sênior	Simples	Não.
+Sênior	Complexa	Não, a menos que a tarefa é complexa demais para ser
+resolvida por apenas um programador sênior.
+Fonte: Dyba et. al., 2007, p. 15
+Legenda: Júnior = programador iniciante; Pleno = programador de experiência intermediária; Sênior = programador experiente.
+
+Cockburn et al. (2001) e Williams et al. (2000) usaram programadores iniciantes e constataram que a produtividade, ao usar a programação em pares, parece ser comparável à de duas pessoas trabalhando de forma independente. As razões sugeridas são que programando em pares discutem o sistema antes de desenvolvê-lo, então provavelmente ocorrerá menos erros e retrabalho. Além disso, o número de erros evitados pela inspeção informal realizada pela programação em pares é tal que, menos tempo é gasto na reparação de bugs descobertos durante o processo de testes.
+
+Segundo Parrish et al. (2004), há aumento de produtividade quando o desenvolvimento é realizado de maneira concorrente por meio da programação individual, quando os programadores trabalham em computadores e partes diferentes do sistema. Porém a qualidade demonstrou-se melhor quando usam a programação em pares. A produtividade foi mensurada pelo número de pontos de função desenvolvido por hora por programador. As equipes foram classificadas em níveis de concorrência|simultaneidade alto e baixo. A qualidade foi mensurada pelo desvio do padrão de codificação. As equipes estavam no mesmo local físico. 
+
+Arisholm et al. (2007) e Parrish et al. (2004) realizaram seus trabalhos com programadores experientes. Eles descobriram que houve uma significativa perda de produtividade em comparação a dois programadores trabalhando sozinhos, havia alguns benefícios na qualidade, mas que não compensavam totalmente a perda da produtividade da programação em pares. No entanto, segundo eles, a partilha de conhecimento que acontece durante a programação em pares é muito importante, pois reduz os riscos globais de um projeto no caso de algum membro da equipe sair e isso pode justificar o seu uso.
+
+A pesquisa liderada por Dyba et al. (2007) revisou quinze estudos sobre programação em pares e todos os estudos usaram tarefas de programação como base para a comparação. O número de indivíduos nos estudos oscilou entre 12 e 295. O estudo concentrou-se nos aspectos:
+•	Duração, tempo do calendário de desenvolvimento. 
+•	Esforço, mensurado em horas de trabalho. 
+•	Qualidade, quanto melhor ficou o produto final.
+
+Ao analisar-se o resultado, constata-se a melhora da qualidade, redução do número de defeitos, porém observa-se também ao usar a programação em pares o aumento do esforço no projeto, se comparada à programação individual. 
+
+Wray (2010) apresentou quatro mecanismos para melhorar o desempenho da programação em pares: 
+
+1.	Comunicação. Parte da eficácia da programação em pares é presumivelmente devido à interação entre os programadores. Quando os programadores falam sobre o problema no momento da dúvida, encontram mais rapidamente a solução, consequentemente há o aumento da produtividade;
+2.	Rotação do par. A fadiga diminui a produtividade e trocar a pessoa do par que digita no teclado durante o expediente, pode aumentar a produtividade. É importante levar em consideração que programadores iniciantes aumentam sua produtividade quando seu par é mais experiente. 
+3.	Lutar contra práticas ruins de programação. A pressão do par contribui para melhorar a qualidade da programação, evitando retrabalhos e aumentando a produtividade;
+4.	Compartilhar e reconhecer competências. A descoberta de quem são os especialistas em determinados assuntos e compartilhar o conhecimento, pode aumentar a produtividade.
+
+Wray (2010) sugeriu refazer a pesquisa do Dyba (2007) considerando seus quatro mecanismos e pensar em novos critérios e método para mensurar eficientemente o desempenho, levando em consideração estes mecanismos.
+
+A base do conceito da Engenharia Simultânea é melhorar a qualidade e aumentar a produtividade com redução de custos. Ainda não há na literatura o uso deste conceito para aumentar a produtividade e aprimorar a qualidade da programação em pares.
+
+A Engenharia Simultânea é baseada na ideia do processamento paralelo/simultâneo dos processos da empresa, que reduz o tempo de lançamento de um novo produto bem como a melhoria da qualidade (PITHON, 2004, p. 3).
+
+Segundo Bennett et al. (1995) a Engenharia Simultânea é uma filosofia e não uma tecnologia. Engenharia Simultânea usa tecnologia para atingir seus objetivos.o seu principal objetivo é a diminuição do tempo desde o pedido até a entrega, para um novo produto, com custo mais baixo e maior qualidade. Isto é alcançado pelo desenvolvimento paralelo, ao invés de sequencial, das diferentes etapas que compõem o Projeto do Produto, com o emprego de times ou equipes multidisciplinares. 
+
+Embora não há na literatura o uso da engenharia simultânea para resolver o problema de produtividade e aprimorar a qualidade da programação em pares. Engenharia simultânea e programação em pares tem características em comum: trabalho em equipe; cooperação; comunicação; equipes multidisciplinares; melhorar a qualidade; compartilhar o conhecimento; aumentar o aprendizado.
+
+

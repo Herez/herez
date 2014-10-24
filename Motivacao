@@ -1,10 +1,50 @@
-Moticação
-
+Moticação:
 por que vale a pena fazer esta pesquisa
-
 definições gerais para um leitor (culto) entender o problema
-
 contexto do problema
-
 referencias apenas que confirmam o problema
+
+Há pesquisas constatando que o isolamento pode gerar tristeza. O ser humano é um ser social. Estimular a felicidade baseada na confiança e trabalho em equipe além de melhorar a retenção, motivação, qualidade e produtividade, é um ato Cristão, demonstra respeito ao profissional desenvolvedor de software.
+
+A programação em pares é a principal prática do método XP (Extreme Programming). Ela melhora a qualidade e reduz o número de defeitos do sistema. Aumenta a retenção, a motivação e a confiança entre os membros da equipe. Porém seu ônus é a perda de produtividade e este problema é o principal objeto de estudo desta dissertação. 
+
+A pesquisa conduzida por Smith et al. (2002) na universidade americana West Virginia e NASA, reconheceu o papel fundamental de uma das práticas: a programação em pares. Ela relaciona-se diretamente a quase todas as outras práticas do método XP. A centralidade da programação em pares para o método XP é evidenciada devido ao fato de que caso removida afetaria diretamente todas as práticas relacionadas. Constatou-se o problema de produtividade da programação em pares e foi concluído que a NASA não deveria usar método ágil baseado em programação em pares em 64% dos seus projetos. Para os demais casos, o método usado na pesquisa apenas endossou vantagem sobre abordagens convencionais em um relativamente pequeno e específico conjunto de casos, descritos a seguir:
+
+•	O projeto é relativamente pequeno;
+•	Existe uma abundância de desenvolvedores;
+•	É necessário um período de desenvolvimento curto. 
+
+A pesquisa liderada por Dyba et al. (2007) revisou quinze estudos sobre programação em pares e todos os estudos usaram tarefas de programação como base para a comparação. O número de indivíduos nos estudos oscilou entre 12 e 295. O estudo concentrou-se nos aspectos:
+•	Duração, tempo do calendário de desenvolvimento. 
+•	Esforço, mensurado em horas de trabalho. 
+•	Qualidade, quanto melhor ficou o produto final.
+
+Ainda segundo Dyba et al. (2007) não é sempre que ocorre a melhoria da qualidade ao usar a programação em pares, conforme é descrito no Quadro 1. Quanto mais experiente é o programador e menos complexa for a tarefa, menor será a melhoria da qualidade.
+
+Quadro 1 – Diretriz para quando usar a programação em pares
+Experiência do programador	Complexidade da tarefa	É vantajoso usar a programação em pares?
+Júnior	Simples	Sim, se o aumento da qualidade é o principal objetivo.
+Júnior	Complexa	Sim, se o aumento da qualidade é o principal objetivo.
+Pleno	Simples	Não.
+Pleno	Complexa	Sim, se o aumento da qualidade é o principal objetivo.
+Sênior	Simples	Não.
+Sênior	Complexa	Não, a menos que a tarefa é complexa demais para ser
+resolvida por apenas um programador sênior.
+Fonte: Dyba et. al., 2007, p. 15
+Legenda: Júnior = programador iniciante; Pleno = programador de experiência intermediária; Sênior = programador experiente.
+
+Em 1982 foi iniciado um estudo, conduzido pelo DARPA (Defense Advanced
+Research Project Agency – Agência de Projetos de Investigação Avançada de Defesa), buscando uma forma de aumentar o grau de paralelismo das atividades de desenvolvimento de produtos. O resultado deste trabalho, publicado em 1988, definiu o termo Engenharia Simultânea da seguinte forma:
+
+Engenharia Simultânea é uma abordagem sistemática para o desenvolvimento
+integrado e paralelo do projeto de um produto e os processos relacionados, incluindo
+manufatura e pós-venda Esta abordagem procura fazer com que as pessoas envolvidas no desenvolvimento considerem, desde o início, todos os custos, prazos e requisitos dos clientes. (Winner et al., 1988 apud (Prasad, 1996))
+
+Segundo Bennett et al. (1995) a Engenharia Simultânea é uma filosofia e não uma tecnologia. Engenharia Simultânea usa tecnologia para atingir seus objetivos.o seu principal objetivo é a diminuição do tempo desde o pedido até a entrega, para um novo produto, com custo mais baixo e maior qualidade. Isto é alcançado pelo desenvolvimento paralelo, ao invés de sequencial, das diferentes etapas que compõem o Projeto do Produto, com o emprego de times ou equipes multidisciplinares. 
+
+A Engenharia Simultânea é baseada na ideia do processamento paralelo/simultâneo dos processos da empresa, que reduz o tempo de lançamento de um novo produto bem como a melhoria da qualidade (PITHON, 2004, p. 3).
+
+Embora não há na literatura o uso da engenharia simultânea para resolver o problema de produtividade e aprimorar a qualidade da programação em pares. Engenharia simultânea e programação em pares tem características em comum: trabalho em equipe; cooperação; comunicação; equipes multidisciplinares; melhorar a qualidade; compartilhar o conhecimento e aumentar o aprendizado.
+
+
 
